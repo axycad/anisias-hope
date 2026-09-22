@@ -1,7 +1,7 @@
-# Anisia's Hope
+# Anisia's Hope — GitHub Pages
 
-Static charity site (GitHub Pages).
+Live site: https://axycad.github.io/anisias-hope/
 
-UK CIO charity number **1219714**.
+UK CIO **Anisia's Hope - Fighting Batten Disease**, charity number **1219714**.
 
-Source of truth mock — not a Squarespace export.
+Published static site root (includes `.nojekyll`).

@@ -69,6 +69,8 @@
 | Gift Aid: HMRC declaration; trustees reclaim | donate.html Gift Aid box |
 | Donate CTA: opens when CIO bank + Stripe ready | donate panel; index; about; contact; faq |
 | BDFA correctly as another UK charity 1084908, not partner | faq; about; governance |
+| Privacy notice (no ad trackers; email handling) | privacy.html; footer link site-wide |
+| Register of Charities link (no endorsement) | governance; donate; faq; index strip |
 | Avoid implying Commission endorsement | governance lead; donate; objects intro |
 
 ## Parent / funder gaps
@@ -76,6 +78,14 @@
 |-------|-----------------|
 | Hero CTAs parent-first | index.html (Newly diagnosed / Talk to someone / How we help) |
 | FAQ names BDFA correctly | faq.html#other-support |
+
+## Parent pathway hardening (stress test)
+| Point | Where addressed |
+|-------|-----------------|
+| Newly diagnosed practical steps + not emergency | about.html#newly-diagnosed |
+| FAQ Gift Aid / JustGiving / CLN remit / complaints / CC endorsement | faq.html |
+| Contact not 24/7 + safeguarding pointer | contact.html |
+| Custom 404 with parent CTAs | 404.html (GH Pages absolute paths) |
 
 ## Residual risks (Alexandra / trustee decisions)
 1. **Signed constitution PDF** — site uses extracted text; confirm public display matches the signed instrument exactly (including any typography).
