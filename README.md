@@ -32,7 +32,7 @@ Nav stays simple: **Research → research.html** (no 28 nav items). Footers matc
 ## Compliance notes
 - No cure claims; object (2) research into cure ≠ claiming a cure exists
 - Family JustGiving separate from CIO funds
-- Online donate CTA: public Stripe Payment Link only (no secret keys). Gift Aid is completed in that flow where prompted; trustees reclaim from HMRC. Do not claim HMRC has already approved Gift Aid claims.
+- Online donate CTA: public Stripe Payment Link only (no secret keys). UK taxpayers can select Gift Aid in the Stripe form; trustees reclaim from HMRC. Do not claim HMRC has already approved Gift Aid claims.
 - BDFA = Batten Disease Family Association, charity **1084908** (signpost only)
 - Research prioritisation: particular focus on CLN2; family support remains all NCL forms
 - Every research/CLN page: we do not give medical advice; clinical team first; last reviewed: not yet published

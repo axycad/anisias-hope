@@ -93,7 +93,7 @@
 3. **Trustee names and roles** — section removed from public pages until Alexandra authorises publication.
 4. **Medical advisor identity** — QA policy refers to a medical advisor without naming anyone; publish name only when authorised.
 5. **Scientific advisory panel** — stated as an aim; not yet constituted.
-6. **Gift Aid reclaim** — donors can complete Gift Aid in the Stripe flow where prompted. Trustees reclaim from HMRC; the payment processor does not. Do not state that HMRC has already approved the charity’s Gift Aid claims.
+6. **Gift Aid reclaim** — UK taxpayers can select Gift Aid in the Stripe form. Trustees reclaim from HMRC; the payment processor does not. Do not state that HMRC has already approved the charity’s Gift Aid claims.
 7. **Legacy Facebook URL** (`CombatBattenDisease`) — still in footers; confirm whether to rename page or keep with legacy note.
 8. **Research grant programme** — policy published; no awards yet; do not imply open calls until trustees open one.
 9. **Formal partnerships** — none claimed; BDFA/NHS are signposts only.
