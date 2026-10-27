@@ -9,7 +9,7 @@ Static UK charity site for CIO **1219714**. UK English. Domain: fightingbattendi
 | `about.html` | Purpose, who we serve (CLN1–CLN14), newly diagnosed, story, aims, **verbatim Clause 3 objects** |
 | `faq.html` | FAQ + other support signposts (NHS Evelina, BDFA 1084908) |
 | `governance.html` | Registration, safeguarding, complaints, **verbatim objects**, research packs, education accuracy |
-| `donate.html` | Why give, objects, Gift Aid, research-grant pointer, family JustGiving separate, donate when bank+Stripe ready |
+| `donate.html` | Why give, objects, Gift Aid, research-grant pointer, family JustGiving separate, live Stripe Payment Link |
 | `contact.html` | Contact form (mailto), charity details, legacy social handles |
 | `research.html` | Research & updates hub — CLN1–CLN14 equally; each card links Overview \| Open trials |
 | `cln1.html` … `cln14.html` | Per-form **overview** placeholders (CTA to open-trials page; no invented trials) |
@@ -32,7 +32,7 @@ Nav stays simple: **Research → research.html** (no 28 nav items). Footers matc
 ## Compliance notes
 - No cure claims; object (2) research into cure ≠ claiming a cure exists
 - Family JustGiving separate from CIO funds
-- Online donate CTA: opens when CIO bank account and Stripe are ready
+- Online donate CTA: public Stripe Payment Link only (no secret keys). Gift Aid is completed in that flow where prompted; trustees reclaim from HMRC. Do not claim HMRC has already approved Gift Aid claims.
 - BDFA = Batten Disease Family Association, charity **1084908** (signpost only)
 - Research prioritisation: particular focus on CLN2; family support remains all NCL forms
 - Every research/CLN page: we do not give medical advice; clinical team first; last reviewed: not yet published
